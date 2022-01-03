@@ -1,5 +1,5 @@
 {
-  "name": "pipe-dreams-skeleton",
+  "name": "mvp-base-nextjs",
   "private": true,
   "scripts": {
     "dev": "next dev",
